@@ -1,7 +1,27 @@
-a {
+body {
   font-family: sans-serif;
+  color: #4c4a1a;
+  background-color: black;
 }
 
 h1 {
   font-size: 50px;
+}
+
+a:link {
+  color: #513623
+}
+
+a:visited {
+  color: #513623
+}
+
+a:hover {
+  color: hotpink;
+  font-size: 150%;
+}
+
+ul {
+  font-style: oblique;
+  color: #513623;
 }
